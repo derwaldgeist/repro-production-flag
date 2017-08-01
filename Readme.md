@@ -9,3 +9,5 @@ The app tries to call the Meteor method called `test`. While this works on a des
 After a while, error messages about failed requests to <https://localhost> are being displayed. If you reload the browser with Ctrl+R, it's even more obvious. In a real app, logging into the app isn't possible anymore in this state.
 
 If you remove the `test:ssl` package, the app just works fine.
+
+The problem only occurs if `meteor run android-device` is called right after `meteor reset`. If the app is run on the device for a second time, it works.
