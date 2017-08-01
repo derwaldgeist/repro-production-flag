@@ -7,12 +7,6 @@
   },
   "dependencies": {
     "babel-runtime": "^6.23.0",
-    "bcrypt": "^1.0.2",
-    "moment": "^2.18.1"
-  },
-  "devDependencies": {
-    "mdi": "1.2.65",
-    "octicons": "^4.4.0",
-    "sass-material-colors": "0.0.5"
+    "bcrypt": "^1.0.2"
   }
 }

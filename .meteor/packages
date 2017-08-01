@@ -32,35 +32,6 @@ shell-server
 dynamic-import
 
 #
-# Community packages
-#
-
-cwaring:modernizr
-fortawesome:fontawesome
-fourseven:scss
-kadira:blaze-layout
-meteorhacks:fast-render
-meteortoys:allthings
-#mquandalle:bower
-okgrow:analytics
-raix:push
-reywood:bootstrap3-sass
-seba:minifiers-autoprefixer
-tap:i18n
-tomwasd:flow-router-autoscroll
-useraccounts:bootstrap
-useraccounts:flow-routing
-
-#
-# Semantic.ui
-#
-
-semantic:ui
-less
-# juliancwirko:postcss
-
-
-#
 # ssl test package
 #
 
