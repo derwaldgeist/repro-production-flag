@@ -3,13 +3,9 @@ import {
 }
 from 'meteor/meteor';
 
-Meteor.startup(() => {
-  // code to run on server at startup
-});
-
 Meteor.methods({
   'test' () {
-    console.log('called');
+    console.log('method called on server side');
     return 'Success';
   }
 });
