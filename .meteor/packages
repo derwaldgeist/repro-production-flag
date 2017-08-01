@@ -8,7 +8,6 @@
 # Meteor standard packages
 #
 
-audit-argument-checks@1.0.7
 blaze-html-templates
 check@1.2.5
 ecmascript@0.8.0
